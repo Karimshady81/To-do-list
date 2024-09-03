@@ -135,9 +135,6 @@ h1 {
     body{
         display: flex;
         flex-direction: column;
-        background-image: url(../images/notes.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
     }
     
     .container {
